@@ -2,7 +2,7 @@
 
 # ⚡ Wordflux — Content Creation AI & Automation on Complete Autopilot
 
-**Turn websites, blogs, YouTube videos, PDFs, and raw thoughts into high-converting social campaigns, on-brand visual carousels, and SEO articles — generated, scheduled, and published across all major platforms.**
+**Turn websites, blogs, YouTube videos, PDFs, DOCX, and raw thoughts into high-converting social campaigns, on-brand visual carousels, and SEO articles — generated, scheduled, and published across all major platforms.**
 
 [![Website](https://img.shields.io/badge/Official%20Website-word--flux.com-blue?style=for-the-badge&logo=googlechrome)](https://www.word-flux.com)
 [![Free Trial](https://img.shields.io/badge/Trial-14--Day%20Free%20Trial-emerald?style=for-the-badge)](https://www.word-flux.com)
