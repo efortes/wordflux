@@ -56,6 +56,9 @@ Content marketing today is broken across multiple fragmented tools. WordFlux is 
 
 WordFlux offers a complete suite of specialized tools designed for high-conversion content publishing:
 
+### 💬 Interactive AI Chat
+* **[Social Media AI Chat](https://www.word-flux.com/features/ai-chat):** Converse with an AI assistant trained on your brand to brainstorm angles, edit copy, or produce custom campaigns in real time.
+
 ### ⚡ Content Automation & Autopilot
 * **[Content Automation](https://www.word-flux.com/features/content-automation):** Autonomous content ingestion and auto-scheduling. Connect your website or YouTube channel and let WordFlux continuously generate and schedule platform-specific drafts.
 * **[Automate Content Flows](https://www.word-flux.com/features/automate-content-flows):** Trigger automated workflows the instant new articles, videos, or inventory items go live.
@@ -79,8 +82,6 @@ WordFlux offers a complete suite of specialized tools designed for high-conversi
 * **[AI CMS Content Writer](https://www.word-flux.com/cms-content-generator):** Direct publishing to WordPress, Ghost, Shopify, and custom CMS webhooks.
 * **[Generative Engine Optimization (GEO)](https://www.word-flux.com/features/generative-engine-optimization):** Structure your web content so it gets cited by AI answer engines like ChatGPT Search and Perplexity.
 
-### 💬 Interactive AI Chat
-* **[Social Media AI Chat](https://www.word-flux.com/features/ai-chat):** Converse with an AI assistant trained on your brand to brainstorm angles, edit copy, or produce custom campaigns in real time.
 
 ---
 
